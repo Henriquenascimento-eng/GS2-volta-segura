@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "estacao": "Tatuapé",
+    "destino": "Casa A",
+    "trechos": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "estacao": "Tatuapé",
+    "destino": "Casa A",
+    "trechos": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "estacao": "Belém",
+    "destino": "Escola",
+    "trechos": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": 4,
+    "estacao": "Belém",
+    "destino": "Escola",
+    "trechos": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": 5,
+    "estacao": "Bresser-Mooca",
+    "destino": "Casa B",
+    "trechos": [
+      9,
+      10
+    ]
+  }
+]

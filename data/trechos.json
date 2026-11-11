@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "bairro": "Tatuapé",
+    "rua": "Rua Tuiuti",
+    "faixa": [
+      100,
+      400
+    ],
+    "postes_total": 10,
+    "postes_apagados": 1,
+    "calcada": "boa"
+  },
+  {
+    "id": 2,
+    "bairro": "Tatuapé",
+    "rua": "Rua Itapura",
+    "faixa": [
+      50,
+      300
+    ],
+    "postes_total": 8,
+    "postes_apagados": 5,
+    "calcada": "ruim"
+  },
+  {
+    "id": 3,
+    "bairro": "Tatuapé",
+    "rua": "Rua Serra de Japi",
+    "faixa": [
+      1,
+      250
+    ],
+    "postes_total": 6,
+    "postes_apagados": 0,
+    "calcada": "boa"
+  },
+  {
+    "id": 4,
+    "bairro": "Tatuapé",
+    "rua": "Rua Cantagalo",
+    "faixa": [
+      200,
+      600
+    ],
+    "postes_total": 12,
+    "postes_apagados": 3,
+    "calcada": "regular"
+  },
+  {
+    "id": 5,
+    "bairro": "Tatuapé",
+    "rua": "Rua Apucarana",
+    "faixa": [
+      10,
+      180
+    ],
+    "postes_total": 5,
+    "postes_apagados": 1,
+    "calcada": "regular"
+  },
+  {
+    "id": 6,
+    "bairro": "Belém",
+    "rua": "Rua Siqueira Bueno",
+    "faixa": [
+      300,
+      900
+    ],
+    "postes_total": 14,
+    "postes_apagados": 2,
+    "calcada": "regular"
+  },
+  {
+    "id": 7,
+    "bairro": "Belém",
+    "rua": "Rua Catumbi",
+    "faixa": [
+      1,
+      350
+    ],
+    "postes_total": 9,
+    "postes_apagados": 6,
+    "calcada": "ruim"
+  },
+  {
+    "id": 8,
+    "bairro": "Belém",
+    "rua": "Rua Herval",
+    "faixa": [
+      50,
+      400
+    ],
+    "postes_total": 7,
+    "postes_apagados": 1,
+    "calcada": "boa"
+  },
+  {
+    "id": 9,
+    "bairro": "Mooca",
+    "rua": "Rua da Mooca",
+    "faixa": [
+      1500,
+      1900
+    ],
+    "postes_total": 16,
+    "postes_apagados": 4,
+    "calcada": "regular"
+  },
+  {
+    "id": 10,
+    "bairro": "Mooca",
+    "rua": "Rua Bresser",
+    "faixa": [
+      100,
+      500
+    ],
+    "postes_total": 10,
+    "postes_apagados": 0,
+    "calcada": "boa"
+  },
+  {
+    "id": 11,
+    "bairro": "Paulista",
+    "rua": "Alameda santos",
+    "faixa": [
+      1100,
+      1500
+    ],
+    "postes_total": 40,
+    "postes_apagados": 23,
+    "calcada": "regular"
+  }
+]

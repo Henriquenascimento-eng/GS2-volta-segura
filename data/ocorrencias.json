@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "trecho_id": 2,
+    "tipo": "poste_apagado",
+    "descricao": "Três postes apagados perto do número 150",
+    "status": "aberta"
+  },
+  {
+    "id": 2,
+    "trecho_id": 7,
+    "tipo": "rua_escura",
+    "descricao": "Quarteirão inteiro sem luz depois das 22h",
+    "status": "em_analise"
+  },
+  {
+    "id": 3,
+    "trecho_id": 4,
+    "tipo": "calcada_quebrada",
+    "descricao": "Buraco na calçada em frente ao 410",
+    "status": "aberta"
+  },
+  {
+    "id": 4,
+    "trecho_id": 1,
+    "tipo": "poste_apagado",
+    "descricao": "Poste do número 230 consertado",
+    "status": "resolvida"
+  },
+  {
+    "id": 5,
+    "trecho_id": 9,
+    "tipo": "outro",
+    "descricao": "Árvore cobrindo a luz do poste",
+    "status": "aberta"
+  }
+]
